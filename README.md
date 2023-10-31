@@ -97,7 +97,7 @@ void loop() {
 
 ### Build và chạy
 
-![1698743715710](image/README/1698743715710.png)
+![1698743715710](./assets/1698743715710.png)
 
 Thời gian đáp ứng: delay có thể chỉnh nhỏ hơn nữa
 
